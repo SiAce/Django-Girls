@@ -5,7 +5,7 @@
 .DS_Store
 
 # vscode configuration
-/.vscode/
+# /.vscode/
 
 # python compiled files
 __pycache__/
