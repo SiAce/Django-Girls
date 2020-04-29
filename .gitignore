@@ -9,3 +9,12 @@
 
 # python compiled files
 __pycache__/
+*.pyc
+
+# database
+db.sqlite3
+
+# static files
+/static
+
+*~
