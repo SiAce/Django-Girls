@@ -3,3 +3,9 @@
 
 # mac finder
 .DS_Store
+
+# vscode configuration
+/.vscode/
+
+# python compiled files
+__pycache__/
