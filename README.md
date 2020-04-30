@@ -5,4 +5,4 @@ which is deployed at [pythonanywhere](http://siacespark.pythonanywhere.com).
 
 ---
 
-![Django Blog Website Overview](/)
+![Django Blog Website Overview](/imgs/homepage.png)
